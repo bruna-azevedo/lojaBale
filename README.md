@@ -4,4 +4,4 @@ Problema: descontos não estão sendo aplicados corretamente. Os descontos são 
 
 Solução: O padrão Strategy, neste case, define diferentes formas de calcular o desconto e os encapsula de modo que eles possam ser trocados dinamicamente. Logo, torna o código mais flexível e desacoplado.
 
-O Stratefy foi aplicado/definido na classe DescontoStrategy, que define o método calcular(total) que será implementado pelas classes de estratégia de desconto.
+O Stratefy foi aplicado/definido na classe DescontoStrategy, que define o método calcular(total) que será implementado pelas classes de estratégia de desconto...
