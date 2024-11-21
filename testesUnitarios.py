@@ -1,5 +1,7 @@
 import unittest
 
+from strategy import *
+
 class TestLojaBale(unittest.TestCase):
 
     def setUp(self):
